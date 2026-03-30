@@ -54,13 +54,6 @@
 
 ---
 
-### Contribution
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/abusn/abusn/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
