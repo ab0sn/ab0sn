@@ -53,8 +53,13 @@
 > Pinned repositories below.
 
 ---
+### Streak
 
+<div align="center">
 
+![GitHub Streak](https://streak-stats.demolab.com?user=abusn&theme=tokyonight&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=666666)
+
+</div>
 ---
 
 <div align="center">
