@@ -6,7 +6,7 @@
 
 &nbsp;
 
-[![Profile Views](https://komarev.com/ghpvc/?username=abusn&color=ffffff&style=flat-square&label=profile+views)](https://github.com/abusn)
+[![Profile Views](https://komarev.com/ghpvc/?username=abusn&color=ffffff&style=flat-square&label=profile+views)](https://github.com/ab0sn)
 
 </div>
 
