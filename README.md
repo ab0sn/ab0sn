@@ -19,7 +19,7 @@
 - Student aiming for **Software Engineering**
 - I build bots, tools, and web apps end-to-end
 - Interested in AI APIs, automation, and real deployments
-- Languages: Arabic · English · learning Spanish
+- Languages: Arabic · English
 
 ---
 
@@ -64,8 +64,8 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/github-abusn-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/abusn)
-[![Telegram](https://img.shields.io/badge/telegram-message%20me-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/abusn)
+[![GitHub](https://img.shields.io/badge/github-abusn-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/ab0sn)
+[![Telegram](https://img.shields.io/badge/telegram-message%20me-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/ab0sn)
 
 </div>
 
