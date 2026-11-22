@@ -2,29 +2,60 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=00FF9C&center=true&vCenter=true&width=620&lines=Cybersecurity+Student;Learning+Offensive+%26+Defensive+Security;Hands-on+Labs+%26+CTFs;Python+%7C+Linux+%7C+Automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=00FF9C&center=true&vCenter=true&width=620&lines=%24+whoami;Cybersecurity+Student;Offensive+%26+Defensive+Security;Python+%7C+Linux+%7C+Automation;Learning+by+breaking+things+(legally))](https://github.com/AB0SN)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ab0sn&color=00ff9c&style=flat-square&label=profile+views)](https://github.com/AB0SN)
+[![Profile Views](https://komarev.com/ghpvc/?username=ab0sn&color=00ff9c&style=flat-square&label=PROFILE+VIEWS)](https://github.com/AB0SN)
+[![Followers](https://img.shields.io/github/followers/ab0sn?label=FOLLOWERS&style=flat-square&color=00ff9c&labelColor=0d1117&logo=github)](https://github.com/AB0SN?tab=followers)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-ab0sn-00ff9c?style=flat-square&labelColor=0d1117&logo=telegram)](https://t.me/ab0sn)
 
 </div>
 
 ---
 
-### About
+```bash
+ab0sn@kali:~$ cat profile.txt
+role      : Cybersecurity Student
+focus     : Penetration Testing · Blue Team / SOC · Security Automation
+languages : Arabic · English
+status    : open to collaboration on security tools and CTF teams
 
-- Cybersecurity student, building a hands-on foundation in **penetration testing** and **blue team / SOC** fundamentals
-- Learning by doing: labs, CTFs, and documented write-ups
-- I write Python tools to automate recon and repetitive security tasks
-- Languages: Arabic · English
-
-### Currently
-
-- Practicing in legal labs and CTFs
-- Building small security tools in Python
+ab0sn@kali:~$ cat rules.txt
+All security work here is done in legal labs, CTFs, and authorized environments only.
+```
 
 ---
 
-### Skills & Tools
+### Focus Areas
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Offensive**
+
+Reconnaissance and enumeration, web application testing (OWASP Top 10), Linux privilege escalation, CTF challenges.
+
+</td>
+<td width="33%" valign="top">
+
+**Defensive**
+
+Network traffic analysis, log analysis, SIEM fundamentals, detection and hardening.
+
+</td>
+<td width="33%" valign="top">
+
+**Automation**
+
+Python tooling for recon and repetitive security tasks, bots, scripting on Linux.
+
+</td>
+</tr>
+</table>
+
+---
+
+### Toolkit
 
 <div align="center">
 
@@ -39,21 +70,52 @@
 
 </div>
 
-**Security topics:** Networking (TCP/IP, DNS, HTTP) · Linux privilege escalation · Web vulnerabilities (OWASP Top 10) · Enumeration with Nmap · Log analysis · Intro to SIEM
+<details>
+<summary><b>Security topics I am working on</b> (click to expand)</summary>
+
+<br/>
+
+| Area | Topics |
+|---|---|
+| Networking | TCP/IP, DNS, HTTP/S, subnetting, packet analysis |
+| Recon | Nmap, service enumeration, OSINT basics |
+| Web | OWASP Top 10, Burp Suite, authentication and access control flaws |
+| Linux | Permissions, privilege escalation, Bash scripting |
+| Blue Team | Log analysis, SIEM basics, incident response fundamentals |
+
+</details>
+
+<details>
+<summary><b>Roadmap</b> (click to expand)</summary>
+
+<br/>
+
+- [ ] Networking and Linux fundamentals
+- [ ] Web application security (OWASP Top 10)
+- [ ] Privilege escalation (Linux and Windows)
+- [ ] Active Directory basics
+- [ ] SOC and log analysis
+- [ ] Build and publish an open-source security tool
+- [ ] Entry-level certification (eJPT / Security+)
+
+</details>
 
 ---
 
-### Featured
-
-Projects coming soon.
-
----
-
-### GitHub Stats
+### GitHub Activity
 
 <div align="center">
 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ab0sn&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&count_private=true" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab0sn&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" alt="Top languages"/>
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=ab0sn&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ff9c&ring=00ff9c&fire=00ff9c&currStreakLabel=ffffff&sideLabels=ffffff&dates=666666)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ab0sn/ab0sn/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ab0sn/ab0sn/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/ab0sn/ab0sn/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -67,7 +129,5 @@ Projects coming soon.
 [![Telegram](https://img.shields.io/badge/telegram-message%20me-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/ab0sn)
 
 </div>
-
-<sub>All security work shown here is done in legal labs, CTFs, and authorized environments only.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0,0,0,20,20&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" width="100%"/>
