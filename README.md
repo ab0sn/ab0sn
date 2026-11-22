@@ -10,21 +10,21 @@
 
 ---
 
-### 👋 About
+### About
 
-- 🎓 Cybersecurity student, building a hands-on foundation in **penetration testing** and **blue team / SOC** fundamentals
-- 🔐 Learning by doing: labs, CTFs, and documented write-ups
-- 🐍 I write Python tools to automate recon and repetitive security tasks
-- 🌍 Languages: Arabic · English
+- Cybersecurity student, building a hands-on foundation in **penetration testing** and **blue team / SOC** fundamentals
+- Learning by doing: labs, CTFs, and documented write-ups
+- I write Python tools to automate recon and repetitive security tasks
+- Languages: Arabic · English
 
-### 🎯 Currently
+### Currently
 
-- 🧪 Practicing in legal labs and CTFs
-- 🛠️ Building small security tools in Python
+- Practicing in legal labs and CTFs
+- Building small security tools in Python
 
 ---
 
-### 🧰 Skills & Tools
+### Skills & Tools
 
 <div align="center">
 
@@ -43,13 +43,13 @@
 
 ---
 
-### 📌 Featured
+### Featured
 
 Projects coming soon.
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -59,7 +59,7 @@ Projects coming soon.
 
 ---
 
-### 📫 Contact
+### Contact
 
 <div align="center">
 
@@ -68,6 +68,6 @@ Projects coming soon.
 
 </div>
 
-<sub>⚠️ All security work shown here is done in legal labs, CTFs, and authorized environments only.</sub>
+<sub>All security work shown here is done in legal labs, CTFs, and authorized environments only.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0,0,0,20,20&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" width="100%"/>
