@@ -1,72 +1,73 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0,0,20,20&customColorList=0,2,2,5,30&height=180&section=header&text=abusn&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineering%20Student%20%C2%B7%20Builder&descAlignY=62&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0,0,20,20&customColorList=0,2,2,5,30&height=180&section=header&text=ab0sn&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Cybersecurity%20Student%20%C2%B7%20Aspiring%20Penetration%20Tester&descAlignY=62&descSize=15" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=560&lines=Software+Engineering+Student;Building+real+things+from+scratch;Python+%7C+JavaScript+%7C+AI+APIs;Turning+ideas+into+products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=00FF9C&center=true&vCenter=true&width=620&lines=Cybersecurity+Student;Learning+Offensive+%26+Defensive+Security;Hands-on+Labs+%26+CTFs;Python+%7C+Linux+%7C+Automation)](https://git.io/typing-svg)
 
-&nbsp;
-
-[![Profile Views](https://komarev.com/ghpvc/?username=abusn&color=ffffff&style=flat-square&label=profile+views)](https://github.com/ab0sn)
+[![Profile Views](https://komarev.com/ghpvc/?username=ab0sn&color=00ff9c&style=flat-square&label=profile+views)](https://github.com/AB0SN)
 
 </div>
 
-<br/>
+---
+
+### 👋 About
+
+- 🎓 Cybersecurity student, building a hands-on foundation in **penetration testing** and **blue team / SOC** fundamentals
+- 🔐 Learning by doing: labs, CTFs, and documented write-ups
+- 🐍 I write Python tools to automate recon and repetitive security tasks
+- 🌍 Languages: Arabic · English
+
+### 🎯 Currently
+
+- 🧪 Practicing in legal labs and CTFs
+- 🛠️ Building small security tools in Python
 
 ---
 
-### About
-
-- Student aiming for **Software Engineering**
-- I build bots, tools, and web apps end-to-end
-- Interested in AI APIs, automation, and real deployments
-- Languages: Arabic · English
-
----
-
-### Tech Stack
+### 🧰 Skills & Tools
 
 <div align="center">
 
+![Kali](https://img.shields.io/badge/Kali%20Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=557C94)
+![Linux](https://img.shields.io/badge/Linux%20%2F%20WSL-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Three.js](https://img.shields.io/badge/Three.js-0d1117?style=for-the-badge&logo=threedotjs&logoColor=ffffff)
-![Pygame](https://img.shields.io/badge/Pygame-0d1117?style=for-the-badge&logo=python&logoColor=376f9f)
-![Anthropic](https://img.shields.io/badge/Claude%20API-0d1117?style=for-the-badge&logo=anthropic&logoColor=D97757)
-![Telegram](https://img.shields.io/badge/Telegram%20Bots-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)
-![Discord](https://img.shields.io/badge/Discord%20Bots-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7)
+![Burp](https://img.shields.io/badge/Burp%20Suite-0d1117?style=for-the-badge&logo=portswigger&logoColor=FF6633)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/WSL%20%2F%20Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+</div>
+
+**Security topics:** Networking (TCP/IP, DNS, HTTP) · Linux privilege escalation · Web vulnerabilities (OWASP Top 10) · Enumeration with Nmap · Log analysis · Intro to SIEM
+
+---
+
+### 📌 Featured
+
+Projects coming soon.
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ab0sn&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ff9c&ring=00ff9c&fire=00ff9c&currStreakLabel=ffffff&sideLabels=ffffff&dates=666666)
 
 </div>
 
 ---
 
-### Projects
-
-<!-- Add pinned projects here -->
-
-> Pinned repositories below.
-
----
-### Streak
+### 📫 Contact
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=abusn&theme=tokyonight&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=666666)
-
-</div>
----
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/github-abusn-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/ab0sn)
+[![GitHub](https://img.shields.io/badge/github-ab0sn-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/AB0SN)
 [![Telegram](https://img.shields.io/badge/telegram-message%20me-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/ab0sn)
 
 </div>
+
+<sub>⚠️ All security work shown here is done in legal labs, CTFs, and authorized environments only.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0,0,0,20,20&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" width="100%"/>
